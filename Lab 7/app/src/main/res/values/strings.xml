@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tide Table</string>
+
+    <string name="list_view_title">2018 Tides</string>
+
+    <string name="item_title">Item Title</string>
+    <string name="item_info">Item Information</string>
+
+
+</resources>

@@ -1,0 +1,128 @@
+
+	<datainfo>
+		<origin>NOAA/NOS/CO-OPS</origin>
+		<disclaimer>
+		Disclaimer: These data are based upon the latest information available as of the date of your request, and may differ from the published tide tables.
+		</disclaimer>
+	<datarange>Daily</datarange>
+		<producttype>Tide Prediction</producttype>
+		<stationname>Coos Bay</stationname>
+		<state>OR</state>
+		<stationid>9432845</stationid>
+	
+		<stationtype>Subordinate</stationtype>
+		<referencedToStationName>Charleston</referencedToStationName>
+		<referencedToStationId>9432780</referencedToStationId>
+		<HeightOffsetLow>* 0.88</HeightOffsetLow>
+		<HeightOffsetHigh>* 0.96</HeightOffsetHigh>
+		<TimeOffsetLow>88</TimeOffsetLow>
+		<TimeOffsetHigh>86</TimeOffsetHigh>
+		
+		<BeginDate>20180713 01:36</BeginDate>
+		<EndDate>20180714 21:22</EndDate>
+		
+		<dataUnits>Feet</dataUnits>
+		 
+	<Timezone>LST_LDT</Timezone>
+	<Datum>MLLW</Datum>
+	<IntervalType>High/Low</IntervalType>
+	<data>
+	
+			<item>
+				<date>2018/07/13</date>
+				<day>Fri</day>
+		
+				<time>01:36 AM</time>
+			
+				<pred>8.51</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2018/07/13</date>
+				<day>Fri</day>
+		
+				<time>08:33 AM</time>
+			
+				<pred>-2.16</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2018/07/13</date>
+				<day>Fri</day>
+		
+				<time>03:12 PM</time>
+			
+				<pred>6.51</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2018/07/13</date>
+				<day>Fri</day>
+		
+				<time>08:28 PM</time>
+			
+				<pred>1.78</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2018/07/14</date>
+				<day>Sat</day>
+		
+				<time>02:27 AM</time>
+			
+				<pred>8.48</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2018/07/14</date>
+				<day>Sat</day>
+		
+				<time>09:20 AM</time>
+			
+				<pred>-2.19</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2018/07/14</date>
+				<day>Sat</day>
+		
+				<time>03:59 PM</time>
+			
+				<pred>6.73</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2018/07/14</date>
+				<day>Sat</day>
+		
+				<time>09:22 PM</time>
+			
+				<pred>1.62</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+		</data>
+</datainfo>

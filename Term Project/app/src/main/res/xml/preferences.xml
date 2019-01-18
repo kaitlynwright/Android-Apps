@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference
+        android:defaultValue="Recently Added Last"
+        android:entries="@array/taskOrg_values"
+        android:entryValues="@array/taskOrg_values"
+        android:key="pref_taskOrg"
+        android:title="Task Sorting"
+        android:summary="Choose how tasks are organized in the to-do list" />
+
+</PreferenceScreen>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">To-Do List</string>
+
+    <string-array name="taskOrg_values">
+        <item>Alphabetical</item>
+        <item>Ascending Date</item>
+        <item>Descending Date</item>
+        <item>Complete - First</item>
+        <item>Complete - Last</item>
+        <item>Long Term - First</item>
+        <item>Long Term - Last</item>
+    </string-array>
+
+</resources>

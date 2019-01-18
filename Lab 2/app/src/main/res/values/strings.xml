@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PigGame</string>
+
+    <string name="p1Label">Player 1</string>
+    <string name="p2Label">Player 2</string>
+    <string name="player1_name">" "</string>
+    <string name="player2_name">" "</string>
+
+    <string name="scoreLabel">Score</string>
+    <string name="player1_score">0</string>
+    <string name="player2_score">0</string>
+
+    <string name="turnScoreLabel">Points For Roll</string>
+    <string name="current_score">0</string>
+    <string name="current_turn">"Press New Game"</string>
+
+    <string name="newGameLabel">New Game</string>
+    <string name="rollDieLabel">Roll Die</string>
+    <string name="endTurnLabel">End Turn</string>
+
+    <string name="imageDie">Die</string>
+
+
+</resources>

@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">PigGame</string>
+
+    <string name="p1Label">Player 1</string>
+    <string name="p2Label">Player 2</string>
+    <string name="player1_name">" "</string>
+    <string name="player2_name">" "</string>
+
+    <string name="scoreLabel">Score</string>
+    <string name="player1_score">0</string>
+    <string name="player2_score">0</string>
+
+    <string name="turnScoreLabel">Points For Turn</string>
+    <string name="current_score">0</string>
+    <string name="current_turn">"Press New Game"</string>
+
+    <string name="newGameLabel">New Game</string>
+    <string name="rollDieLabel">Roll Die</string>
+    <string name="endTurnLabel">End Turn</string>
+
+    <string name="imageDie">Die</string>
+
+    <!--Preferences-->
+
+    <string name="die_pref_title">Dice Preferences</string>
+    <!--<string name="AI_category_title">AI Mode</string>
+    <string name="CP_Rolls_Title">Rolls Per Turn for CP</string>
+
+    <string-array name="default_AI_rpt">
+        <item >1</item>
+        <item >2</item>
+        <item >3</item>
+        <item >4</item>
+        <item >5</item>
+        <item >6</item>
+        <item >7</item>
+        <item >8</item>
+        <item >9</item>
+        <item >10</item>
+    </string-array>-->
+
+    <string-array name="default_maxScore">
+        <item> 10</item>
+        <item> 20</item>
+        <item> 30</item>
+        <item> 40</item>
+        <item> 50</item>
+        <item> 60</item>
+        <item> 70</item>
+        <item> 80</item>
+        <item> 90</item>
+        <item> 100</item>
+    </string-array>
+
+    <string-array name="default_numDies">
+        <item> 1</item>
+        <item> 2</item>
+        <item> 3</item>
+    </string-array>
+
+    <string-array name="default_dieSides">
+        <item> 1</item>
+        <item> 2</item>
+        <item> 3</item>
+        <item> 4</item>
+        <item> 5</item>
+        <item> 6</item>
+    </string-array>
+
+</resources>

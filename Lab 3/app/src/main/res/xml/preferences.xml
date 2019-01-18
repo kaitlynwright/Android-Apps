@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:defaultValue="100"
+        android:entries="@array/default_maxScore"
+        android:entryValues="@array/default_maxScore"
+        android:key="pref_maxScore"
+        android:title="Maximum Score"
+        android:summary="Choose score to play to" />
+
+    <PreferenceCategory
+        android:title="@string/die_pref_title"
+        android:key="pref_die_category" />
+
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="pref_show_images"
+        android:title="Show Images" />
+
+    <ListPreference
+        android:defaultValue = "1"
+        android:entries="@array/default_numDies"
+        android:entryValues="@array/default_numDies"
+        android:key="pref_numDies"
+        android:title="Number of Dice"
+        android:summary="Choose number of dice to play with" />
+
+    <ListPreference
+        android:defaultValue = "6"
+        android:entries="@array/default_dieSides"
+        android:entryValues="@array/default_dieSides"
+        android:key="pref_dieSides"
+        android:title="Number Sides on Die"
+        android:summary="Choose number of sides on dice" />
+
+
+
+    <!-- <PreferenceCategory
+        android:title="@string/AI_category_title"
+        android:key="pref_AI_category" />
+        <CheckBoxPreference
+            android:key="AI_mode_on_off"
+            android:title="AI Mode"
+            android:summary="Enable Computer Player"
+            android:defaultValue="false" />
+        <ListPreference
+            android:defaultValue="5"
+            android:entries="@array/default_AI_rpt"
+            android:entryValues="@array/default_AI_rpt"
+            android:key="AI_roll_pref"
+            android:title="@string/CP_Rolls_Title"
+            android:dialogTitle='@string/CP_Rolls_Title'
+            android:summary="Set maximum number of rolls per turn for CP" /> -->
+
+</PreferenceScreen>
